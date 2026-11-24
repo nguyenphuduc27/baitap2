@@ -53,5 +53,4 @@ Nhap so thu hai: 7
 Tong cua hai so la: 12
 ```
 
-## 6. Tác giả
-Sinh viên ngành Công nghệ thông tin
+
